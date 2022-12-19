@@ -10,7 +10,7 @@ Assignment Two was to build our own professional portfolio. Using the new skills
 
 ## Links
 
-https://imjustsahen.github.io/assignment-two/
+https://imjustsahen.github.io/Portfolio-Assignment
 https://github.com/imjustSahen/assignment-two
 
 ## Installation
