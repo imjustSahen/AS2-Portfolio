@@ -10,8 +10,8 @@ Assignment Two was to build our own professional portfolio. Using the new skills
 
 ## Links
 
-- [Portfolio Site](https://imjustsahen.github.io/AS2-Portfolio)
-- [Portfolio Repo](https://github.com/imjustSahen/AS2-Portfolio)
+- [Portfolio Site](https://imjustsahen.github.io/AS2-Responsive-Portfolio)
+- [Portfolio Repo](https://github.com/imjustSahen/AS2-Responsive-Portfolio)
 
 ## Installation
 
